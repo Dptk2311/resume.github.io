@@ -1,0 +1,12 @@
+img{
+    border-radius: 50%;
+    height: 180px;
+    width: 180px;
+    position:relative;
+    left:44%
+}
+
+div h2{
+    text-align: center;
+}
+
